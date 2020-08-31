@@ -1,9 +1,0 @@
-[submodule "c-multiaddr"]
-	path = c-multiaddr
-	url = https://github.com/Agorise/c-multiaddr.git
-[submodule "c-multihash"]
-	path = c-multihash
-	url = https://github.com/Agorise/c-multihash.git
-[submodule "c-protobuf"]
-	path = c-protobuf
-	url = https://github.com/Agorise/c-protobuf.git
